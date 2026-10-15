@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Althea Algaba
 ======================================================================================================================================
 
-UI/UX Desinger | Web Devbeloper | Graphic Artists | Game Designer | IT Graduate.
+UI/UX Desinger | Web Devbeloper | Graphic Artists | Game Designer | IT
 --------------------------------------------------------------------------------
 
 I'm a Bachelor of Science in Information Technology graduate from Polytechnic University of the Philippines in Sto. Tomas, Batangas with an interest in web development, software applications, UI/UX design, and database management.
